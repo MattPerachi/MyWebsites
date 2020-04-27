@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Matthew Perachi Resume</title>
+    </head>
+    <body>
+<h1>Matthew Perachi Resume</h1> <br>
+
+<h3>Experience</h3>
+  <ul>
+      <li>Worked at the Official Red Sox Team Store.</li>
+      <li>Landscaping.</li>
+      <li>Babysitting.</li>
+      <li>CPR certified.</li> 
+  </ul>
+    <p>I am creative, a good problem solver, and love to be challenged.</p> <br>
+    
+    <h3>Education</h3>
+    <ul>
+        <li>Medfield Highschool class of 2021.
+        <li>2018 and 2019 honor role.
+        <li>3.5 gpa
+    </ul>
+    <br>
+    <h3> Extra Curricular Activities</h3>
+    <ul>
+        <li>Soccer for Medfield Highschool 2017-2019.
+        <li>Medfield Highschool volleyball.
+        <li>Volunteer snow shoveling.
+        <li>Helped run a Medfield youth soccer clinic
+        
+    </ul>
+    </body>
+</html>
